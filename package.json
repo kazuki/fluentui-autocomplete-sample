@@ -1,5 +1,8 @@
 {
   "name": "fluentui-autocomplete-sample",
+  "homepage": "https://kazuki.github.io/fluentui-autocomplete-sample/",
+  "license": "BSD-2-Clause",
+  "author": "Kazuki Oikawa <k@oikw.org>",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -16,6 +19,9 @@
     "react-scripts": "4.0.0-next.98",
     "typescript": "^4.0.2",
     "web-vitals": "^0.2.4"
+  },
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
   },
   "scripts": {
     "start": "react-scripts start",
