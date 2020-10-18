@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fluentui-autocomplete-sample/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/fluentui-autocomplete-sample/static/js/main.fef069a2.chunk.js",
+    "main.js.map": "/fluentui-autocomplete-sample/static/js/main.fef069a2.chunk.js.map",
+    "runtime-main.js": "/fluentui-autocomplete-sample/static/js/runtime-main.d06c5ae0.js",
+    "runtime-main.js.map": "/fluentui-autocomplete-sample/static/js/runtime-main.d06c5ae0.js.map",
+    "static/js/2.aa6a38d0.chunk.js": "/fluentui-autocomplete-sample/static/js/2.aa6a38d0.chunk.js",
+    "static/js/2.aa6a38d0.chunk.js.map": "/fluentui-autocomplete-sample/static/js/2.aa6a38d0.chunk.js.map",
+    "static/js/3.fdc9dbfb.chunk.js": "/fluentui-autocomplete-sample/static/js/3.fdc9dbfb.chunk.js",
+    "static/js/3.fdc9dbfb.chunk.js.map": "/fluentui-autocomplete-sample/static/js/3.fdc9dbfb.chunk.js.map",
+    "index.html": "/fluentui-autocomplete-sample/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/fluentui-autocomplete-sample/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.aa6a38d0.chunk.js.LICENSE.txt": "/fluentui-autocomplete-sample/static/js/2.aa6a38d0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d06c5ae0.js",
+    "static/js/2.aa6a38d0.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.fef069a2.chunk.js"
+  ]
+}
